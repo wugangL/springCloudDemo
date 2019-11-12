@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c03891f-37bc-4485-a523-6af4fbc4e001" name="Default Changelist" comment="" />
+    <list default="true" id="2c03891f-37bc-4485-a523-6af4fbc4e001" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-config/hello-spring-cloud-config.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-config/hello-spring-cloud-config.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-zuul/hello-spring-cloud-zuul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-zuul/hello-spring-cloud-zuul.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/hello-spring-cloud-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/hello-spring-cloud-eureka/target/" />
     <ignored path="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/" />
@@ -19,79 +24,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/com/qf/hello/spring/cloud/zuul/ZuulApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/com/qf/hello/spring/cloud/zuul/provider/WebAdminFeignFallbackProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1344">
-              <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/com/qf/hello/spring/cloud/zuul/filter/LoginFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="68" column="42" selection-start-line="67" selection-start-column="13" selection-end-line="68" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="58" column="64" selection-start-line="58" selection-start-column="64" selection-end-line="58" selection-end-column="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/src/main/java/com/qf/hello/spring/cloud/config/ConfigApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -110,6 +48,9 @@
     <dirStrings>
       <dir>D:\飞秋文件\第四阶段进阶\day02_1905_4阶段\代码\springCloudDemo\hello-spring-cloud-web-admin-feign</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -155,14 +96,16 @@
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1049" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,48 +113,10 @@
               <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-config" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springCloudDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springCloudDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,9 +124,10 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/飞秋文件/第四阶段进阶/day03_1905_4阶段/代码/springCloudDemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -233,6 +139,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="spring" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -261,9 +168,9 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.45402297" />
+    <option name="contentProportion" value="0.28961748" />
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigApplication">
+  <component name="RunManager" selected="Spring Boot.ZuulApplication">
     <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="hello-spring-cloud-config" />
       <extension name="coverage">
@@ -273,6 +180,13 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.hello.spring.cloud.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring-cloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.hello.spring.cloud.eureka.EurekaApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -336,14 +250,15 @@
       <item itemvalue="Spring Boot.WebAdminFeignApplication" />
       <item itemvalue="Spring Boot.ZuulApplication" />
       <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConfigApplication" />
         <item itemvalue="Spring Boot.ZuulApplication" />
-        <item itemvalue="Spring Boot.ServiceAdminApplication" />
         <item itemvalue="Spring Boot.WebAdminFeignApplication" />
         <item itemvalue="Spring Boot.WebAdminRibbonApplication" />
+        <item itemvalue="Spring Boot.ServiceAdminApplication" />
+        <item itemvalue="Spring Boot.ConfigApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -368,16 +283,17 @@
       <workItem from="1573222455923" duration="83000" />
       <workItem from="1573435751466" duration="1230000" />
       <workItem from="1573456001145" duration="5520000" />
+      <workItem from="1573479095158" duration="1049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27028000" />
+    <option name="totallyTimeSpent" value="28077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15482573" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36997318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -394,14 +310,14 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.0694051" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32843137" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.5615276" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.40934843" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="17" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -644,12 +560,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/qf/hello/spring/cloud/web/admin/ribbon/controller/AdminController.java (Can't open)">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/qf/hello/spring/cloud/web/admin/ribbon/config/RestTemplateConfiguration.java (Can't open)">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/qf/hello/spring/cloud/web/admin/ribbon/controller/AdminController.java (Can't open)" />
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/qf/hello/spring/cloud/web/admin/ribbon/config/RestTemplateConfiguration.java (Can't open)" />
     <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/qf/hello/spring/cloud/web/admin/ribbon/controller/AdminController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -664,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="16" column="52" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
@@ -680,7 +585,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/com/qf/hello/spring/cloud/zuul/ZuulApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="264">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -692,7 +597,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/com/qf/hello/spring/cloud/zuul/provider/WebAdminFeignFallbackProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
+        <state relative-caret-position="1368">
           <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -702,23 +607,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/java/com/qf/hello/spring/cloud/zuul/filter/LoginFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="1296">
           <caret line="68" column="42" selection-start-line="67" selection-start-column="13" selection-end-line="68" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
+        <state relative-caret-position="1392">
           <caret line="58" column="64" selection-start-line="58" selection-start-column="64" selection-end-line="58" selection-end-column="81" />
         </state>
       </provider>
@@ -732,13 +631,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello-spring-cloud-config/src/main/java/com/qf/hello/spring/cloud/config/ConfigApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="384">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
